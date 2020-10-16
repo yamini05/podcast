@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PodCast</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_dashboard">Dashboard</string>
+     <string name="error_general">Something went wrong</string>
+    <string name="data_empty">Data Empty</string>
+    <string name="retry">Retry</string>
+    <string name="comments">Enter Your Comment Here</string>
+    <string name="community">Community</string>
+     <string name="library">Library</string>
+    <string name="Personal">Personal</string>
+    <string name="top_shows">TOP SHOWS</string>
+
+
+</resources>
